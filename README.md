@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment and DSA
 - 🌱 I’m currently learning C++ and Front-end Web Devlopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin :-https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BDmmiegHaT5qGaMNc5ZXEkA%3D%3D
+- 📫 How to reach me linkedin :-www.linkedin.com/in/kartavya-sharma-21cb
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
